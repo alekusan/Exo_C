@@ -9,7 +9,7 @@ int main(){
     int* ptr ;
 
     //boucle pour parcourir le tableau
-    for(i = 0; i < 3; i++){
+    for(i = 0; i < 4; i++){
 
         //stockage de l'adresse de l'élément i du tableau dans la variable ptr 
         ptr = &tab[i];
