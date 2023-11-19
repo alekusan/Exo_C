@@ -1,0 +1,1 @@
+Créez un tableau d'entiers et utilisez un pointeur pour parcourir et afficher les éléments du tableau.
