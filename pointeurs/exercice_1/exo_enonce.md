@@ -1,0 +1,1 @@
+Déclarez un pointeur pour un type de base (comme int ou char) et initialisez-le avec l'adresse d'une variable de ce type.
